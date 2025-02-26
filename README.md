@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajgharde
 - 👀 I’m interested in exploring innovative presentation formats and techniques, especially in the context of technology ..
-- 🌱 I’m currently learning..
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me gharadesuraj@gmail.com...
 - 😄 Pronouns: .He..
